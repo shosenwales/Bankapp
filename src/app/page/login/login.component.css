@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    color: white;
+}
+.main{
+    background-color: #120012;
+}
+.secondary{
+    background-color: #3A283A;
+    color: #fff;
+    padding: 10px;
+    font-size: 10px;
+}
+.secondary h3{
+    float: right;
+}
+.cover{
+    background-color: #120012;
+}
+.row{
+    display: flex;
+}
+.input{
+    background-color: #fff;
+    display: flex;
+}
